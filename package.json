@@ -1,0 +1,10 @@
+{
+  "name": "purescript-cons",
+  "version": "0.0.0",
+  "description": "Abstractions for inserting/removing from ends of a data structure.",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-purescript": "0.0.12"
+  }
+}
